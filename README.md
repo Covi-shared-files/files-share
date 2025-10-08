@@ -6,4 +6,14 @@ Q群：Covi的技术神殿（832350428），我们期待会用GitHub和Linux的�
 
 ## 目录
 
+- [编程](./Coding)
+  - [算法](./Coding/Algorithm)
+    - [PDF](./Coding/Algorithm/PDF)
+- [经济学](./Econometrics)
+	- [PDF](./Econometrics/PDF)
+- [数学](./Math)
+	- [博弈论](./Math/Game_Theory)
+	- [几何](./Math/Geometric)
+	- [图论](./Math/Group_Theory)
+- [人工智能](./AI)
 （暂空）
